@@ -60,14 +60,6 @@ I'm a Computer Science student and full-stack developer with a strong interest i
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana-A-Badawy&theme=minimal&hide_border=true" alt="Contribution Graph" width="90%"/>
-</p>
-
----
----
-
 ### 📫 Let's Connect
 
 I'm always open to discussing new projects, internship/job opportunities, or collaborating on open-source work. Feel free to reach out!
