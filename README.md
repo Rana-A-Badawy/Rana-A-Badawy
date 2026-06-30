@@ -72,7 +72,3 @@ I'm always open to discussing new projects, internship/job opportunities, or col
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rana-A-Badawy&style=flat-square&color=blue" alt="Profile views"/>
-</p>
