@@ -61,34 +61,11 @@ I'm a Computer Science student and full-stack developer with a strong interest i
 ---
 
 ### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rana-A-Badawy&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Rana's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-A-Badawy&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana-A-Badawy&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana-A-Badawy&theme=minimal&hide_border=true" alt="Contribution Graph" width="90%"/>
 </p>
 
 ---
-
-### 📌 Featured Projects
-
-<!-- Replace these with your real repositories -->
-<p align="center">
-  <a href="https://github.com/Rana-A-Badawy/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana-A-Badawy&repo=project-one&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/Rana-A-Badawy/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana-A-Badawy&repo=project-two&theme=default&hide_border=true" />
-  </a>
-</p>
-
 ---
 
 ### 📫 Let's Connect
