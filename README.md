@@ -2,7 +2,7 @@
 
 Computer Science Student • Full Stack Developer • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Web+Developer;Problem+Solver;Always+Learning+New+Technologies" /></div>---
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Web+Developer;Problem+Solver;Always+Learning+New+Technologies" /></div>
 
 👩‍💻 About Me
 
@@ -13,7 +13,6 @@ Computer Science Student • Full Stack Developer • Problem Solver
 - 🧩 Interested in Problem Solving & Algorithms.
 - 🎯 Goal: Become a professional Software Engineer.
 
----
 
 🚀 Tech Stack
 
@@ -29,7 +28,7 @@ Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>---
+</p>
 
 📈 GitHub Statistics
 
@@ -52,14 +51,14 @@ Languages
 - 🍽 Restaurant Website
 - 🪑 Furniture Store Website
 
----
+
 
 🌍 Connect With Me
 
-<p align="center"><a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+<p align="center"><a href="https://github.com/Rana-A-Badawy">GitHub</a> •
+<a href="https://www.linkedin.com/in/rana-badawy-53b653294">LinkedIn</a>
 
-</p>---
+</p>
 
 <div align="center">⭐ Thanks for visiting my profile!
 
