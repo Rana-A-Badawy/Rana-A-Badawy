@@ -4,14 +4,25 @@
 <!-- markdownlint-disable MD022 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=300&section=header&text=Rana%20Amed%20Badawy&fontSize=56&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Computer%20Science%20Student&descAlignY=51&descSize=20&animation=fadeIn&fontColor=ffffff&descColor=ffffff" alt="Rana Amed Badawy Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6A0DAD,100:C77DFF&height=280&section=header&text=Rana%20Amed%20Badawy&fontSize=52&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Computer%20Science%20Student&descAlignY=55&descSize=18&animation=twinkling&fontColor=ffffff&descColor=ffffff" alt="Rana Amed Badawy Banner" />
 </p>
+
+<!-- 🔁 BANNER OPTIONS — swap the line above for one of these if you want a different look:
+1) Different gradient/shape:
+   type=venom&color=0:6A0DAD,100:C77DFF
+   type=rounded&color=0:6A0DAD,100:C77DFF
+   type=slice&color=0:6A0DAD,100:C77DFF
+2) Your own photo/banner image instead of capsule-render:
+   <img src="PASTE_YOUR_IMAGE_URL_OR_PATH_HERE" width="100%"/>
+   (upload an image to your repo, e.g. assets/banner.png, and reference it as ./assets/banner.png)
+-->
 
 <p align="center">
   <a href="mailto:ranabadawy500238@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/rana-badawy-53b653294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wa.me/201553930089" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://rana-a-badawy.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://rana-a-badawy.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <!-- 📝 ADD MORE: Facebook, X/Twitter, Instagram, etc. — copy a badge line above and edit the color/logo/link -->
 </p>
 
 <div align="center">
@@ -20,11 +31,12 @@
 </div>
 
 - 💻 Full-Stack Developer working across Python/Django, Angular, and the MEAN stack.
-- 👩‍🎓 Computer Science student, Faculty of Computers & Informatics – Qena University.
+- 👩‍🎓 Computer Science student, <!-- 📝 CONFIRM/EDIT: faculty + university name --> Faculty of Computers & Informatics – Qena University.
 - 🧩 Comfortable taking a project from database design through to a deployed UI.
 - ☁️ Experience with AWS for deployment and Jira/Trello for project tracking.
 - 🔥 Currently building and shipping full-stack applications.
 - 🤝 Open to internships, freelance work, and collaboration.
+<!-- 📝 ADD MORE BULLETS HERE: hobbies, fun fact, current learning goal, etc. -->
 
 <br>
 
@@ -42,6 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <!-- 📝 ADD MORE LANGUAGES: find icons at https://devicon.dev and copy the <img> pattern above -->
 </p>
 
 ## 🛠️ Technologies & Tools
@@ -59,6 +72,7 @@
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=plastic&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/-Trello-0052CC?style=plastic&logo=trello&logoColor=white" alt="Trello"/>
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman"/>
+  <!-- 📝 ADD MORE TOOLS HERE the same way -->
 </p>
 
 ## ⚔️ Competitive Programming
@@ -67,6 +81,11 @@
   <a href="https://codeforces.com/profile/AlgoMango" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" height="40" alt="Codeforces"/>
   </a>
+  <!-- 📝 ADD LEETCODE (if you want it): 
+  <a href="https://leetcode.com/u/YOUR_USERNAME/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/>
+  </a>
+  -->
 </p>
 
 ## ⌨️ Typing Skill
@@ -75,22 +94,35 @@
   <a href="https://monkeytype.com/profile/AlgoMango" target="_blank" rel="noreferrer">
     <img src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled.png" alt="MonkeyType" width="40" height="40"/>
   </a>
+  <!-- 📝 ADD EDCLUB LINK: replace # below with your real EdClub profile URL
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-EdClub-FFA500?style=plastic&logoColor=white" alt="EdClub"/>
+  </a>
+  -->
 </p>
 
-<sub align="center">Codeforces, MonkeyType, and EdClub profiles under the handle <strong>AlgoMango</strong>.</sub>
-
-<br><br>
+<br>
 
 <div align="center">
   <h2><strong>Featured Projects</strong></h2>
   <p align="center"><em>My Greatest Hits</em></p>
 </div>
 
+<!-- 
+  PROJECT CARD TEMPLATE — copy this whole <td>...</td> block to add a new project.
+  For each project you can add:
+  - an image:  <img src="./assets/your-image.png" width="100%"/>  (upload the image to an "assets" folder in your repo)
+  - a video:   link it as a badge (GitHub doesn't autoplay video in README), e.g.
+               <a href="YOUR_VIDEO_URL"><img src="https://img.shields.io/badge/Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  - any links: GitHub repo, live site, Play Store/App Store, Drive download, etc. — just add more badge lines
+-->
+
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📚 commitMa3an – LMS Platform</h3>
       <div align="center">
+        <!-- 📝 ADD IMAGE: <img src="./assets/commitMa3an.png" alt="commitMa3an" width="100%" /> -->
         <p>
           <strong>🔧 Python • Django • Angular • AWS • Jira</strong>
         </p>
@@ -101,12 +133,23 @@
           <a href="https://github.com/Rana-A-Badawy/commitMa3an" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
+          <!-- 📝 ADD LIVE DEMO LINK:
+          <a href="YOUR_LIVE_LINK" target="_blank">
+            <img src="https://img.shields.io/badge/Live%20Demo-6A0DAD?style=for-the-badge&logo=google-chrome&logoColor=white" />
+          </a>
+          -->
+          <!-- 📝 ADD VIDEO LINK:
+          <a href="YOUR_VIDEO_LINK" target="_blank">
+            <img src="https://img.shields.io/badge/Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+          </a>
+          -->
         </p>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚗 carSpare – Car Spare Parts Platform</h3>
       <div align="center">
+        <!-- 📝 ADD IMAGE: <img src="./assets/carSpare.png" alt="carSpare" width="100%" /> -->
         <p>
           <strong>🔧 MongoDB • Express • Angular • Node.js (MEAN) • Trello</strong>
         </p>
@@ -117,10 +160,12 @@
           <a href="https://github.com/Rana-A-Badawy/carSpare" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
+          <!-- 📝 ADD LIVE DEMO LINK / VIDEO LINK — same pattern as above -->
         </p>
       </div>
     </td>
   </tr>
+  <!-- 📝 ADD MORE PROJECTS: copy a full <tr>...</tr> block (or a single <td> if you have an odd number) -->
 </table>
 
 <br>
@@ -158,6 +203,6 @@
 
 ### 💜 Thanks for visiting my profile! Have a great day! 💜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6A0DAD,100:C77DFF&height=120&section=footer&animation=twinkling" />
 
 </div>
