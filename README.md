@@ -3,23 +3,10 @@
 <!-- markdownlint-disable MD041 -->
 <!-- markdownlint-disable MD022 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:1F005C,50:9D0191,100:FF53A0&height=260&section=header" />
-</p>
+<h1 align="center">Rana Amed Badawy</h1>
+<h3 align="center">Full-Stack Developer · Computer Science Student</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=9D0191&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Rana+Amed+Badawy;Full-Stack+Developer;Computer+Science+Student;Welcome+to+my+profile!" alt="Typing animation" />
-</p>
-
-<!-- 🔁 BANNER OPTIONS — swap the line above for one of these if you want a different look:
-1) Different shape/colors:
-   type=venom&color=0:1F005C,50:9D0191,100:FF53A0
-   type=blur&color=0:1F005C,50:9D0191,100:FF53A0
-   type=transparent&color=auto
-2) Your own photo/banner image instead of capsule-render:
-   <img src="PASTE_YOUR_IMAGE_URL_OR_PATH_HERE" width="100%"/>
-   (upload an image to your repo, e.g. assets/banner.png, and reference it as ./assets/banner.png)
--->
+<p align="center">———————</p>
 
 <p align="center">
   <a href="mailto:ranabadawy500238@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -203,6 +190,5 @@
 
 <h3 align="center">📫 Reach me at: <a href="mailto:ranabadawy500238@gmail.com"><b>ranabadawy500238@gmail.com</b></a></h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:FF53A0,50:9D0191,100:1F005C&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=70" />
-</p>
+<p align="center">———————</p>
+<p align="center"><sub>Thanks for visiting my profile!</sub></p>
